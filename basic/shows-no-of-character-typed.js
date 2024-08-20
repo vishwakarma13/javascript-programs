@@ -1,0 +1,1 @@
+/* Shows the no. of characters in the string */
